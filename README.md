@@ -1,3 +1,5 @@
+![Screenshot from 2023-05-12 11-13-07](https://github.com/oluwatobi-fasasi/binance-charity-SD/assets/106747387/c9d942c5-49d2-4aa3-be9e-dd6321e43ff1)
+
 # Binance Charity Scholarship for Software Development
 
 I am proud to have been selected for the Binance Charity Scholarship for Software Development, a program designed to empower students and professionals with the skills needed to become successful software developers. This scholarship program is offered by Binance, one of the world's leading cryptocurrency exchanges, through their charitable foundation, Binance Charity.
